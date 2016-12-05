@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Schedule Manager</string>
+    <string name="menu_reg_schedule">일정작성</string>
+    <string name="menu_day">일별보기</string>
+    <string name="menu_week">주별보기</string>
+    <string name="menu_month">월별보기</string>
+    <string name="menu_reg_action">저장</string>
+    <string name="menu_cancel_action">취소</string>
+</resources>
